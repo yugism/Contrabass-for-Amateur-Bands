@@ -1,0 +1,43 @@
+\documentclass{jarticle}
+\usepackage{musixdoc}
+\startmuflex\makeindex
+
+\newcommand{\flag}[2]{\zchar{#2}{$\circ$}\zchar{#1}{\tiny +}}
+\newcommand{\press}[2]{\zchar{#2}{$\circ$}\zchar{#1}{\small \|}}
+
+\begin{document}
+
+\subsubsection*{ブラームス: 交響曲第2番 ニ長調 第1楽章より}
+\begin{music}
+\nostartrule
+\setclef1{\bass}
+\generalsignature{2}    
+\generalmeter{\meterfrac34}
+\parindent 0pt
+\startbarno=282
+\def\writebarno{\tenrm\the\barno\barnoadd}
+\def\raisebarno{2\internote}
+\def\shiftbarno{0.1\Interligne}
+\systemnumbers
+\startpiece\bigaccid
+\notes\zchar{22}{\bf (Allegro non troppo)}\zchar{-5}{\ff}\enotes
+\NOtes\isluru{0}{f}\zchar{18}{\downbow}\zchar{16}{\bf 3}\hl{=f}\tslur{0}{'a}\zchar{17}{\bf 2}\ql{a}\enotes
+\bar
+\NOtes\islurd{0}{F}\zchar{10}{\upbow}\hu{=F}\tslur{0}{'A}\qu{A}\enotes
+\bar
+\Notes\isluru{0}{f}\zchar{16}{\downbow}\ql{=f}\tslur{0}{'a}\ql{a}\isluru{0}{F}\zchar{10}{\upbow}\ql{=F}\enotes
+\bar
+\Notes\tslur{0}{a}\ql{a}\islurd{0}{F}\zchar{10}{\downbow}\qu{=F}\tslur{0}{'A}\qu{A}\enotes
+\bar
+\NOtes\isluru{0}{f}\zchar{18}{\downbow}\zchar{16}{\bf 3}\hl{^f}\tslur{0}{'a}\zchar{17}{\bf 1}\ql{a}\enotes
+\bar
+\NOtes\islurd{0}{F}\zchar{10}{\upbow}\hu{^F}\tslur{0}{'A}\qu{A}\enotes
+\bar
+\Notes\isluru{0}{f}\zchar{16}{\downbow}\ql{f}\tslur{0}{'a}\ql{a}\isluru{0}{F}\zchar{10}{\upbow}\ql{F}\enotes
+\bar
+\Notes\tslur{0}{a}\ql{a}\islurd{0}{F}\zchar{10}{\downbow}\qu{F}\tslur{0}{'A}\qu{A}\enotes
+\Endpiece
+\end{music}
+
+\endmuflex
+\end{document}

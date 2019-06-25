@@ -1,0 +1,41 @@
+\documentclass{jarticle}
+\usepackage{musixdoc}
+\startmuflex\makeindex
+
+\begin{document}
+
+\subsubsection*{モーツァルト: セレナーデ「アイネ・クライネ・ナハトムジーク」 K.525 冒頭}
+\begin{music}
+\nostartrule
+\setclef1{\bass}
+\generalsignature{1}    
+\generalmeter{\meterC}
+\parindent 0pt
+\startbarno=1
+\def\writebarno{\tenrm\the\barno\barnoadd}
+\def\raisebarno{2\internote}
+\def\shiftbarno{0.1\Interligne}
+\systemnumbers
+\startpiece\bigaccid
+\notes\zchar{16}{\bf Allegro}\enotes
+\Notes\ql{'G}\enotes
+\notes\ds\cl{'D}\enotes
+\Notes\ql{'G}\enotes
+\notes\ds\cl{'D}\enotes
+\bar
+\notes\ibl{0}{'E}{0}\qb{0}{G}\qb{0}{D}\qb{0}{G}\tbl{0}\qb{0}{!b}\enotes
+\Notes\ql{d}\qp\enotes
+\bar
+\Notes\ql{c}\enotes
+\notes\ds\cl{a}\enotes
+\Notes\ql{c}\enotes
+\notes\ds\cl{a}\enotes
+\bar
+\notes\ibl{0}{c}{-3}\qb{0}{c}\qb{0}{a}\qb{0}{'F}\tbl{0}\qb{0}{!a}\enotes
+\Notes\ql{'D}\qp\enotes
+\setdoublebar
+\endpiece
+\end{music}
+
+\endmuflex
+\end{document}
