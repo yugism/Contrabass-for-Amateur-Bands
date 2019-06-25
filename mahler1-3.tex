@@ -1,0 +1,56 @@
+\documentclass{jarticle}
+\usepackage{musixdoc}
+\startmuflex\makeindex
+
+\newcommand{\flag}[2]{\zchar{#2}{$\circ$}\zchar{#1}{\tiny +}}
+\newcommand{\press}[2]{\zchar{#2}{$\circ$}\zchar{#1}{\small \|}}
+
+\begin{document}
+\subsubsection*{マーラー: 交響曲第1番 ニ長調 より 第3楽章冒頭}
+\begin{music}
+\nostartrule
+\setclef1{\bass}
+\generalsignature{-1}    
+\generalmeter{\meterfrac44}
+\parindent 0pt
+\startbarno=3
+\def\writebarno{\tenrm\the\barno\barnoadd}
+\def\raisebarno{2\internote}
+\def\shiftbarno{0.1\Interligne}
+\systemnumbers
+\startpiece\bigaccid
+\notes\zchar{24}{\bf Feierlich und gemessen, ohne zu schleppen.}\zchar{-5}{\p \ mit D\"{a}mpfer}\enotes
+\Notes\isluru{0}{d}\zchar{16}{\downbow}\flag{13}{14}\ql{d}\zchar{16}{\bf 2}\ql{e}\enotes
+\notes\ibl{0}{d}{-1}\zchar{19}{\upbow}\zchar{16}{\bf 3}\qb{0}{f}\tbl{0}\qb{0}{e}\enotes
+\Notes\tslur{0}{d}\ql{d}\enotes
+\notes\cbreath\enotes
+\bar
+\Notes\isluru{0}{d}\zchar{14}{\downbow}\ql{de}\enotes
+\notes\ibl{0}{d}{-1}\zchar{16}{\upbow}\qb{0}{f}\tbl{0}\qb{0}{e}\enotes
+\Notes\tslur{0}{d}\ql{d}\enotes
+\notes\cbreath\enotes
+\bar
+\Notes\isluru{0}{f}\zchar{18}{\downbow}\zchar{16}{\bf 3}\ql{f}\flag{20}{21}\ql{g}\tslur{0}{'a}\zchar{21}{\upbow}\zchar{18}{\bf 2}\hl{a}\enotes
+\notes\cbreath\enotes
+\bar
+\Notes\isluru{0}{f}\zchar{16}{\downbow}\ql{fg}\tslur{0}{'a}\zchar{17}{\upbow}\hl{a}\enotes
+\notes\cbreath\enotes
+\bar
+\notes\ibl{0}{e}{-2}\isluru{0}{'a}\zchar{20}{\downbow}\zchar{18}{\bf 2}\qbp{0}{a}\tbbl{0}\zchar{20}{\bf 3}\qb{0}{b}\qb{0}{a}\tbl{0}\flag{20}{21}\qb{0}{!g}\ibl{0}{d}{-2}\zchar{22}{\upbow}\zchar{19}{\bf 3}\qb{0}{f}\tbl{0}\zchar{17}{\bf 2}\qb{0}{e}\enotes
+\Notes\tslur{0}{d}\flag{15}{16}\ql{d}\enotes
+\notes\cbreath\enotes
+\bar
+\notes\ibl{0}{e}{-2}\isluru{0}{'a}\zchar{18}{\downbow}\qbp{0}{a}\tbbl{0}\qb{0}{b}\qb{0}{a}\tbl{0}\qb{0}{!g}\ibl{0}{d}{-2}\zchar{18}{\upbow}\qb{0}{f}\tbl{0}\qb{0}{e}\enotes
+\Notes\tslur{0}{d}\ql{d}\enotes
+\notes\cbreath\enotes
+\bar
+\Notes\isluru{0}{'a}\zchar{20}{\downbow}\zchar{18}{\bf 2}\ql{a}\flag{11}{12}\ql{!a}\tslur{0}{d}\zchar{17}{\upbow}\flag{13}{14}\hl{d}\enotes
+\notes\cbreath\enotes
+\bar
+\Notes\isluru{0}{'a}\zchar{17}{\downbow}\ql{a}\ql{!a}\tslur{0}{d}\zchar{17}{\upbow}\hl{d}\enotes
+\mulooseness=0
+\setdoublebar\endpiece
+\end{music}
+
+\endmuflex
+\end{document}

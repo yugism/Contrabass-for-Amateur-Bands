@@ -1,0 +1,40 @@
+\documentclass{jarticle}
+\usepackage{musixdoc}
+\startmuflex\makeindex
+
+\begin{document}
+
+\subsubsection*{モーツァルト: レクイエム ニ短調 K.626 より''I. Introitus''冒頭}
+\begin{music}
+\nostartrule
+\setclef1{\bass}
+\generalsignature{-1}    
+\generalmeter{\meterC}
+\parindent 0pt
+\startbarno=1
+\def\writebarno{\tenrm\the\barno\barnoadd}
+\def\raisebarno{2\internote}
+\def\shiftbarno{0.1\Interligne}
+\systemnumbers
+\startpiece\bigaccid
+\notes\zchar{18}{\bf Adagio}\enotes
+\notes\cl{'D}\ds\cl{F}\ds\cl{E}\ds\cl{G}\ds\enotes
+\bar
+\notes\cl{'F}\ds\cu{^C}\ds\cl{D}\ds\cl{D}\ds\enotes
+\bar
+\notes\cu{'=C}\ds\cu{!^G}\ds\cu{'A}\ds\cl{D}\ds\enotes
+\bar
+\notes\cu{=G}\ds\cu{'A}\ds\cl{F}\ds\cl{E}\ds\enotes
+\bar
+\notes\cl{'D}\ds\cl{G}\ds\cu{C}\ds\cu{A}\ds\enotes
+\bar
+\notes\cl{'D}\ds\cl{D}\ds\cl{E}\ds\cl{E}\ds\enotes
+\bar
+\notes\cl{a}\ds\cl{'=G}\ds\cl{F}\ds\cl{E}\ds\enotes
+\bar
+\notes\cl{'D}\zchar{2}{\Huge ( } \ds\cl{D}\ds\cl{D}\ds\cu{^C}\ds\zchar{2}{\Huge )}\enotes
+\setdoublebar\endpiece
+\end{music}
+
+\endmuflex
+\end{document}
