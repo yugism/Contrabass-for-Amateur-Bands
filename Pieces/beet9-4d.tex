@@ -1,0 +1,52 @@
+\documentclass{jarticle}
+\usepackage{musixdoc}
+\startmuflex\makeindex
+
+\newcommand{\flag}[2]{\zchar{#2}{$\circ$}\zchar{#1}{\tiny +}}
+\newcommand{\press}[2]{\zchar{#2}{$\circ$}\zchar{#1}{\small \|}}
+
+\begin{document}
+
+\subsubsection*{ベートーヴェン: 交響曲第9番ニ短調「合唱付き」 第4楽章より}
+
+\begin{music}
+\setclef1{\bass}
+\generalsignature{2}    
+\generalmeter{\meterfrac64}
+\nostartrule
+\parindent 0pt
+\startbarno=719
+\def\writebarno{\tenrm\the\barno\barnoadd}
+\def\raisebarno{2\internote}
+\def\shiftbarno{0.1\Interligne}
+\systemnumbers
+\startpiece\bigaccid
+\qspace
+\notes\zchar{14}{\bf Allegro energico, sempre ben marcato (\metron{\hup}{84})}\enotes
+\NOtes\hpausep\hlp{d}\enotes
+\bar
+\NOtes\hlp{d}\hlp{d}\enotes
+\bar
+\NOtes\hlp{c}\hlp{a}\enotes
+\bar
+\NOtes\hlp{b}\hlp{b}\enotes
+\bar
+\NOtes\hlp{a}\hlp{'F}\enotes
+\alaligne
+\NOtes\hlp{'G}\hlp{G}\enotes
+\bar
+\NOtes\hlp{'F}\hlp{!d}\enotes
+\bar
+\NOtes\hlp{e}\hlp{e}\enotes
+\bar
+\NOtes\whp{e}\enotes
+\bar
+\NOtes\hlp{e}\hlp{e}\enotes
+\bar
+\NOtes\whp{d}\enotes
+\setdoublebar
+\endpiece
+\end{music}
+
+\endmuflex
+\end{document}
