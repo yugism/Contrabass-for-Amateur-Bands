@@ -1,0 +1,111 @@
+\contentsline {section}{\numberline {1}予備知識}{1}
+\contentsline {subsection}{\numberline {1.1}音名}{1}
+\contentsline {subsection}{\numberline {1.2}各部の名称}{1}
+\contentsline {section}{\numberline {2}楽器を持って音を出そう}{2}
+\contentsline {subsection}{\numberline {2.1}楽器の運び方}{2}
+\contentsline {subsection}{\numberline {2.2}楽器の置き方}{2}
+\contentsline {subsection}{\numberline {2.3}楽器の支え方}{2}
+\contentsline {subsection}{\numberline {2.4}弓の毛}{3}
+\contentsline {subsection}{\numberline {2.5}松ヤニ}{3}
+\contentsline {subsection}{\numberline {2.6}弓の持ち方: (1) ドイツ式}{4}
+\contentsline {subsection}{\numberline {2.7}弓の持ち方: (2) フランス式}{5}
+\contentsline {subsection}{\numberline {2.8}弓で弦を弾く}{5}
+\contentsline {subsection}{\numberline {2.9}音量}{7}
+\contentsline {subsection}{\numberline {2.10}開放弦}{7}
+\contentsline {subsection}{\numberline {2.11}チューニングメーター}{7}
+\contentsline {subsection}{\numberline {2.12}ボウイング(英: bowing)の記号}{7}
+\contentsline {subsection}{\numberline {2.13}開放弦の練習 }{8}
+\contentsline {subsection}{\numberline {2.14}移弦 }{8}
+\contentsline {subsection}{\numberline {2.15}手首の使い方 }{9}
+\contentsline {subsection}{\numberline {2.16}開放弦の練習 }{10}
+\contentsline {subsection}{\numberline {2.17}ピッツィカート(伊 pizzicato)}{10}
+\contentsline {subsection}{\numberline {2.18}ベース椅子とその座り方}{11}
+\contentsline {section}{\numberline {3}左手のポジション}{12}
+\contentsline {subsection}{\numberline {3.1}ポジションとは}{12}
+\contentsline {subsection}{\numberline {3.2}学習の順序}{12}
+\contentsline {section}{\numberline {4}第IVポジション}{13}
+\contentsline {subsection}{\numberline {4.1}ベーシストの左手をつくる}{13}
+\contentsline {subsection}{\numberline {4.2}第IVポジションの位置}{13}
+\contentsline {subsection}{\numberline {4.3}弦の押さえ方}{13}
+\contentsline {subsection}{\numberline {4.4}肘の位置}{14}
+\contentsline {subsection}{\numberline {4.5}第IVポジションで取れる音}{14}
+\contentsline {subsection}{\numberline {4.6}音階練習 }{14}
+\contentsline {subsection}{\numberline {4.7}第IVポジションだけで弾ける名曲}{15}
+\contentsline {section}{\numberline {5}第IIIポジションと調弦}{16}
+\contentsline {subsection}{\numberline {5.1}第IIIポジションの位置}{16}
+\contentsline {subsection}{\numberline {5.2}第IIIポジションで取れる音}{16}
+\contentsline {subsection}{\numberline {5.3}音階練習 }{16}
+\contentsline {subsection}{\numberline {5.4}フラジオレット(伊: flageoletto)}{16}
+\contentsline {subsection}{\numberline {5.5}ポジション移動}{17}
+\contentsline {subsection}{\numberline {5.6}調弦(英: tuning)}{17}
+\contentsline {subsection}{\numberline {5.7}第III・第IVポジションで弾く名曲}{17}
+\contentsline {section}{\numberline {6}第IIポジション}{19}
+\contentsline {subsection}{\numberline {6.1}第IIポジションの位置}{19}
+\contentsline {subsection}{\numberline {6.2}第IIポジションで取れる音}{19}
+\contentsline {subsection}{\numberline {6.3}音階練習 }{19}
+\contentsline {subsection}{\numberline {6.4}第IIポジションまでで弾ける名曲}{19}
+\contentsline {section}{\numberline {7}第Iポジション}{21}
+\contentsline {subsection}{\numberline {7.1}第Iポジションの位置}{21}
+\contentsline {subsection}{\numberline {7.2}第Iポジションで取れる音}{21}
+\contentsline {subsection}{\numberline {7.3}音階練習 }{21}
+\contentsline {subsection}{\numberline {7.4}第Iポジションで弾ける名曲}{21}
+\contentsline {section}{\numberline {8}ハーフ・ポジション}{23}
+\contentsline {subsection}{\numberline {8.1}ハーフ・ポジションの位置}{23}
+\contentsline {subsection}{\numberline {8.2}ハーフ・ポジションで取れる音}{23}
+\contentsline {subsection}{\numberline {8.3}音階練習 }{23}
+\contentsline {subsection}{\numberline {8.4}ハーフ・ポジションで弾ける名曲}{24}
+\contentsline {section}{\numberline {9}中間ポジション(1/2)}{26}
+\contentsline {subsection}{\numberline {9.1}中間ポジションと既出ポジションとの位置関係}{26}
+\contentsline {subsection}{\numberline {9.2}第II・第IIIの中間ポジションで取れる音}{26}
+\contentsline {subsection}{\numberline {9.3}音階練習 }{26}
+\contentsline {subsection}{\numberline {9.4}第II・第IIIの中間ポジションで弾ける名曲}{27}
+\contentsline {subsection}{\numberline {9.5}第III・第IVの中間ポジションで取れる音}{28}
+\contentsline {subsection}{\numberline {9.6}第III・第IVの中間ポジションで弾ける名曲}{28}
+\contentsline {section}{\numberline {10}第Vポジション}{30}
+\contentsline {subsection}{\numberline {10.1}第Vポジションの位置}{30}
+\contentsline {subsection}{\numberline {10.2}第Vポジションで取れる音}{30}
+\contentsline {subsection}{\numberline {10.3}音階練習 }{30}
+\contentsline {subsection}{\numberline {10.4}第Vポジションまでで弾ける名曲}{30}
+\contentsline {subsection}{\numberline {10.5}豆知識: コントラバス3大名人}{32}
+\contentsline {section}{\numberline {11}中間ポジション(2/2)}{33}
+\contentsline {subsection}{\numberline {11.1}第V・第VIの中間ポジションの位置}{33}
+\contentsline {subsection}{\numberline {11.2}第V・第VIの中間ポジションで取れる音}{33}
+\contentsline {subsection}{\numberline {11.3}音階練習 }{33}
+\contentsline {subsection}{\numberline {11.4}ピッツィカート(伊 pizzicato)}{34}
+\contentsline {subsection}{\numberline {11.5}中間ポジションで弾ける名曲}{34}
+\contentsline {section}{\numberline {12}第VIポジション }{35}
+\contentsline {subsection}{\numberline {12.1}第VIポジションの位置}{35}
+\contentsline {subsection}{\numberline {12.2}第VIポジションで取れる音}{36}
+\contentsline {subsection}{\numberline {12.3}音階練習 }{36}
+\contentsline {subsection}{\numberline {12.4}第VIポジションで弾ける名曲}{36}
+\contentsline {section}{\numberline {13}第VI・第VIIの中間ポジションと第VIIポジション}{37}
+\contentsline {subsection}{\numberline {13.1}第VI・第VIIの中間ポジションと第VIIポジションの位置}{37}
+\contentsline {subsection}{\numberline {13.2}第VI・第VIIの中間ポジションで取れる音}{38}
+\contentsline {subsection}{\numberline {13.3}音階練習 }{38}
+\contentsline {subsection}{\numberline {13.4}第VI・第VIIの中間ポジションで弾ける名曲}{39}
+\contentsline {subsection}{\numberline {13.5}第VIIポジションで取れる音}{39}
+\contentsline {subsection}{\numberline {13.6}音階練習 }{39}
+\contentsline {subsection}{\numberline {13.7}第VIIポジションで弾ける名曲}{40}
+\contentsline {section}{\numberline {14}一生ものの基礎練習 }{41}
+\contentsline {subsection}{\numberline {14.1}開放弦の練習 (2分弱)}{41}
+\contentsline {subsection}{\numberline {14.2}24音階 (3分半)}{42}
+\contentsline {section}{\numberline {15}親指基本ポジション}{45}
+\contentsline {subsection}{\numberline {15.1}親指基本ポジションの位置}{45}
+\contentsline {subsection}{\numberline {15.2}クローズ(短三度)形}{45}
+\contentsline {subsection}{\numberline {15.3}音階練習}{45}
+\contentsline {subsection}{\numberline {15.4}親指基本ポジションのクローズ形で弾ける名曲}{46}
+\contentsline {subsection}{\numberline {15.5}長三度形}{46}
+\contentsline {subsection}{\numberline {15.6}親指基本ポジションのクローズ形、長三度形で弾ける名曲}{46}
+\contentsline {subsection}{\numberline {15.7}完全四度形}{47}
+\contentsline {subsection}{\numberline {15.8}音階練習}{47}
+\contentsline {subsection}{\numberline {15.9}親指基本ポジションのクローズ形、完全四度形で弾ける名曲}{47}
+\contentsline {section}{\numberline {16}指づかい}{49}
+\contentsline {subsection}{\numberline {16.1}水平運動と垂直運動}{49}
+\contentsline {subsection}{\numberline {16.2}高速系と芸術系のフィンガリング演習}{49}
+\contentsline {section}{\numberline {17}オケ}{50}
+\contentsline {subsection}{\numberline {17.1}弓なりのフォーメーション}{50}
+\contentsline {subsection}{\numberline {17.2}音を出す前に弓を置くタイミング}{50}
+\contentsline {subsection}{\numberline {17.3}音を出す前にヴィブラート}{50}
+\contentsline {subsection}{\numberline {17.4}ザッツ}{50}
+\contentsline {subsection}{\numberline {17.5}譜面の彩色}{50}
+\contentsline {subsection}{\numberline {17.6}楽器選びのベンチマーク}{50}
